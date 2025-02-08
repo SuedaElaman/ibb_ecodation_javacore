@@ -6,11 +6,29 @@
 [Intellij Idea Community](https://www.jetbrains.com/idea/download/?section=windows)
 [Git](https://git-scm.com/downloads)
 
-# Git
+## Git
 ```sh 
 git init
 git add .
 git commit -m "add message"
 git push -u origin master
+```
+---
+
+## Jaca Core
+```sh 
+
+```
+---
+
+## Git
+```sh 
+
+```
+---
+
+## Git
+```sh 
+
 ```
 ---
