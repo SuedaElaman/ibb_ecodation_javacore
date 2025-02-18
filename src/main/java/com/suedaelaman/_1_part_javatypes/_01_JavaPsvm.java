@@ -1,6 +1,6 @@
 package com.suedaelaman._1_part_javatypes;
 
-public class _01_JavaTypes {
+public class _01_JavaPsvm {
     // psvm => tab
     public static void main(String[] args) {
         //çıktı
