@@ -1,4 +1,4 @@
-package com.suedaelaman._1_part_javatypes;
+package com.suedaelaman._1_week;
 
 public class _05_Operators {
     public static void main(String[] args) {
